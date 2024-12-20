@@ -1,5 +1,4 @@
 # Phishing para captura de senhas do Google
-(obs: clonar a página do facebook não estava funcionando, por isso fiz com a do google)
 
 ### Ferramentas
 
